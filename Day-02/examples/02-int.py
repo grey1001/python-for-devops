@@ -11,5 +11,5 @@ result2 = num1 % num2
 print("Modulus (Remainder):", result2)
 
 # Absolute Value
-result3 = abs(-7)
+result3 = abs(-7) #used to find the absolute value of a number i.e convert negative to positive
 print("Absolute Value:", result3)
