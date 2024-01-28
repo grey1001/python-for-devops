@@ -18,7 +18,7 @@ def update_server_config(file_path, key, value):
 server_config_file = 'server.conf'
 
 # Key and new value for updating the server configuration
-key_to_update = 'MAX_CONNECTIONS'
+MAX_CONNECTIONS=1000
 new_value = '600'  # New maximum connections allowed
 
 # Update the server configuration file
